@@ -1,5 +1,7 @@
 # webpage-to-pdf-skill
 
+> **Moved.** The skill in this repository now lives in [itamaker/skills](https://github.com/itamaker/skills/tree/main/skills/web/webpage-to-pdf), together with my other skills. Install from there: `npx skills@latest add itamaker/skills --skill=webpage-to-pdf`.
+
 Standalone agent skill that exports a live webpage to a pixel-perfect, paginated PDF via headless Chrome screenshots — a WYSIWYG capture of exactly what's on screen (dark themes, canvases, custom fonts, JS-heavy layouts), not a print-CSS render.
 
 This repository is structured for the open `skills` installer ecosystem and contains a single skill: `webpage-to-pdf`.
